@@ -1,6 +1,6 @@
 # Yuxuan Su
 
-Master's student in Political Science at Tsinghua University (incoming Ph.D. in Computational Social Science, 2027).
+Ph.D. student in Computational Social Science at Tsinghua University.
 
 I study how values, institutional rules, and political environments shape AI systems, and how AI can extend social-scientific inquiry without weakening its evidentiary standards.
 
@@ -13,7 +13,7 @@ I study how values, institutional rules, and political environments shape AI sys
 
 ## Selected research
 
-- Tianguang Meng and Yuxuan Su. *A Large Language Model-Based Method for Classifying Political Historical Materials: From Historical Material Structuring to Intelligent Annotation.* **Fudan Journal (Social Sciences Edition)**, 2026. [Chinese]
+- Tianguang Meng and Yuxuan Su. *A Large Language Model-Based Method for Classifying Political Historical Materials: From Historical Material Structuring to Intelligent Annotation.* **Fudan Journal (Social Sciences Edition)**, 2026, 68(2): 153-167. [Chinese] [Article](https://www.tandfonline.com/doi/full/10.1080/21620555.2026.2714528)
 - Yuxuan Su, Mingxuan Liu, and Tianguang Meng. *Stratified Regulation: Unpacking Political Control in Chinese LLMs.* Forthcoming in **Chinese Sociological Review**.
 
 ## Open research tools
