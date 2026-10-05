@@ -4,8 +4,7 @@ Master's student in Political Science at Tsinghua University (incoming Ph.D. in 
 
 I study how values, institutional rules, and political environments shape AI systems, and how AI can extend social-scientific inquiry without weakening its evidentiary standards.
 
-[Website](https://yuxuan-thu.github.io/) · [CV](https://yuxuan-thu.github.io/assets/files/Resume_Yuxuan_Su.pdf) · [Entropy Order](https://entropyorder.github.io/Entropyorder/)
-
+[Website](https://yuxuan-thu.github.io/) · [CV](https://yuxuan-thu.github.io/assets/files/Resume_Yuxuan_Su.pdf)
 ## Research
 
 - **AI value alignment:** value pluralism, social choice, and institutional norms in AI systems.
