@@ -1,6 +1,6 @@
 # Yuxuan Su · 苏宇轩
 
-Researcher at Tsinghua University (Ph.D. from 2027), and founder of [Entropy Order](https://entropyorder.github.io/Entropyorder/), a company that builds alignment data for LLM developers.
+Master's student at Tsinghua University (Ph.D. from 2027), and founder of [Entropy Order](https://www.entropyorder.net/en/), a company that builds alignment data for LLM developers.
 
 My research direction is AI for social science. I also work on what post-training data and environments can really add to a model. I'm still interested in political science and the history of the Chinese Communist Party.
 
