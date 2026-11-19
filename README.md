@@ -2,7 +2,7 @@
 
 Researcher at Tsinghua University (Ph.D. from 2027), and founder of [Entropy Order](https://entropyorder.github.io/Entropyorder/), a company that builds alignment data for LLM developers.
 
-My research direction is AI for social science. I also work on what post-training data and environments can really add to a model. I'm also still interested in political science and the history of the Chinese Communist Party.
+My research direction is AI for social science. I also work on what post-training data and environments can really add to a model. I'm still interested in political science and the history of the Chinese Communist Party.
 
 [Homepage](https://yuxuan-thu.github.io/) · [CV](https://yuxuan-thu.github.io/assets/files/Resume_Yuxuan_Su.pdf)
 
