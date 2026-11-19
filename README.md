@@ -2,7 +2,7 @@
 
 Master's student at Tsinghua University (Ph.D. from 2027), and founder of [Entropy Order](https://www.entropyorder.net/en/), a company that builds alignment data for LLM developers.
 
-My research direction is AI for social science. I also work on what post-training data and environments can really add to a model. I'm still interested in political science and the history of the Chinese Communist Party.
+My research direction is AI for social science. I also study how post-training data and environments affect model capability.
 
 [Homepage](https://yuxuan-thu.github.io/) · [CV](https://yuxuan-thu.github.io/assets/files/Resume_Yuxuan_Su.pdf)
 
@@ -18,4 +18,4 @@ My research direction is AI for social science. I also work on what post-trainin
 - [top-social-science-journal-writing](https://github.com/Yuxuan-THU/top-social-science-journal-writing): a skill for writing empirical social science papers.
 - [social-science-latex-template](https://github.com/Yuxuan-THU/social-science-latex-template): a Chinese/English LaTeX manuscript template.
 
-Outside of work: half marathon in 1:30, 27 pull-ups in one set.
+Fun facts: half marathon in under 1:30, 27 consecutive overhand-grip pull-ups in one set.
