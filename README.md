@@ -1,3 +1,2 @@
-# Yuxuan Su
-Master's student at Tsinghua University. AI for social science and LLM alignment.
-[Homepage](https://yuxuan-thu.github.io/) · [Entropy Order](https://www.entropyorder.net/en/)
+AI4SS Researcher & Ph.D. Candidate at Tsinghua University  
+Founder of Entropy Order, dedicated to advancing model capability frontiers through post-training data.
